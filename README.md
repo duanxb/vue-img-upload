@@ -14,7 +14,7 @@
  ## 演示
 
 
-![vue-img-upload]()
+![vue-img-upload](https://raw.githubusercontent.com/duanxb/vue-img-upload/master/img-upload.gif)
 
 #### Code DEMO
 ```html
